@@ -1,7 +1,8 @@
 
-Personal repo
-
 # 👋 Hello, I'm  Amirhossein Soltani!
+
+![](https://komarev.com/ghpvc/?username=amirhosseinsoltan&color=blue)
+
 
 I'm a passionate Robotics Software Developer currently pursuing a Master's in Autonomous Systems. My work focuses on creating innovative solutions in robotics and automation.
 
@@ -29,5 +30,4 @@ I'm a passionate Robotics Software Developer currently pursuing a Master's in Au
 
 Feel free to explore my repositories and get in touch if you're interested in collaborating!
 
-![](https://komarev.com/ghpvc/?username=amirhosseinsoltan&color=blue)
 
