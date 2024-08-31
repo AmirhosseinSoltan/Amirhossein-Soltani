@@ -1,7 +1,7 @@
-# Amirhossein Soltani
-Personal repo
 
-# 👋 Hello, I'm [Your Name]!
+Personal repo
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+# 👋 Hello, I'm  Amirhossein Soltani!
 
 I'm a passionate Robotics Software Developer currently pursuing a Master's in Autonomous Systems. My work focuses on creating innovative solutions in robotics and automation.
 
