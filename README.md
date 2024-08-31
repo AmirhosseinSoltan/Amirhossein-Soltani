@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm  Amirhossein Soltani!
 
-![](https://komarev.com/ghpvc/?username=amirhosseinsoltan&color=blue)
+![](https://komarev.com/ghpvc/?username=amirhosseinsoltan&color=blueviolet)
 
 
 I'm a passionate Robotics Software Developer currently pursuing a Master's in Autonomous Systems. My work focuses on creating innovative solutions in robotics and automation.
